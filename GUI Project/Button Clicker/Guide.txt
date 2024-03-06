@@ -1,1 +1,1 @@
-When you click the buttom it will count how many times you pressed it
+When you click the button it will tell you if you clicked the button
